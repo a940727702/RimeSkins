@@ -1,4 +1,7 @@
 patch:
+# 注意：
+# 該文檔只有最開頭出現一次 "patch:"，請勿重覆輸入"patch:"。
+# 該文檔有嚴格嘅indent要求，請注意縮進格式。
 
   "preset_color_schemes/ILoveYuYu":
     author: Fredy_Y
