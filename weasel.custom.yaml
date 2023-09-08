@@ -1,10 +1,5 @@
-customization:
-  distribution_code_name: Weasel
-  distribution_version: 0.15.0.0
-  generator: "Weasel::UIStyleSettings"
-  modified_time: "Fri Sep  8 23:23:17 2023"
-  rime_version: 1.8.5
 patch:
+
   "preset_color_schemes/ILoveYuYu":
     author: Fredy_Y
     back_color: 0xffffff
@@ -23,7 +18,8 @@ patch:
     label_color: 0xffa961
     name: ILoveYuYu
     shadow_color: 0x00000000
-    text_color: 0x3b5ed2
+    text_color: 0x3b5ed2  
+    
   "preset_color_schemes/YuYuLoveMe":
     author: Fredy_Y
     back_color: 0xffffff
@@ -43,4 +39,5 @@ patch:
     name: YuYuLoveMe
     shadow_color: 0x00000000
     text_color: 0xffa961
+    
   "style/color_scheme": ILoveYuYu
