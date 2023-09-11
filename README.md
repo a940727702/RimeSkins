@@ -1,4 +1,4 @@
-# RimeSkins
+# RimeSkins 輸入法外觀皮膚
 Two cute Rime skins. Many Thanks to my lovely girl YuYu who inspires me to make these skins!
 
 **Instruction:**
